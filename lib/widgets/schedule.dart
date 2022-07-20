@@ -21,7 +21,8 @@ class Schedule extends StatelessWidget {
               Text("Schedule", style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white, fontSize: 22),),
               Text("15 more sessions", style: TextStyle(color: Colors.white70, fontSize: 17),)
             ],
-          )
+          ),
+         Image.asset("assets/images/add.png"),
         ],
       ),
     );
