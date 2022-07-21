@@ -45,7 +45,7 @@ class AppointmentItem extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: const [
                 Text("ID: 383737",style: TextStyle(color: Colors.black45),),
-                Text("03:00 PM",style: TextStyle(color: Colors.black, fontSize: 30, fontWeight: FontWeight.bold),),
+                Text("03:00 PM",style: TextStyle(color: Colors.black, fontSize: 27, fontWeight: FontWeight.bold),),
                 Text("Remain Time: 03:44:22",style: TextStyle(color: Colors.black,fontWeight: FontWeight.w500),)
               ],
             ),
